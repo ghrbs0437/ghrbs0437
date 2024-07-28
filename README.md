@@ -1,4 +1,5 @@
-## Hi there 👋
+
+## 안녕하세요👋
 
 <!--
 **ghrbs0437/ghrbs0437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<!--
+🚀 About Me
+
+---
+
+🌱 2024.07.02.~ : SSAFY 삼성 청년 SW 아카데미, 서울(자바)
+⚡ 2022.05.01 ~ 2024.05.12 Coocon Corp.
 -->
