@@ -1,7 +1,5 @@
-```Tanks for visits```
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghrbs0437&count_bg=%23D14C91&title_bg=%23BA2828&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+## Tanks for visits
+---
 
 
 ### Tech
@@ -13,6 +11,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=revive">
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghrbs0437&count_bg=%23D14C91&title_bg=%23BA2828&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!--
