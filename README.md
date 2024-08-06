@@ -1,6 +1,17 @@
 
 ## 👋
+
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghrbs0437&count_bg=%23D14C91&title_bg=%23BA2828&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
+
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>&nbsp
+ <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+![Github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=revive">
 <!--
 **ghrbs0437/ghrbs0437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
